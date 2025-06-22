@@ -6,6 +6,7 @@ A personal log of solved DSA problems with clean and consistent solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Savvythelegend/leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Savvythelegend/leetcode/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/Savvythelegend/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Savvythelegend/leetcode/tree/master/0090-subsets-ii) |
@@ -35,4 +36,8 @@ A personal log of solved DSA problems with clean and consistent solutions
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Savvythelegend/leetcode/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Savvythelegend/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
